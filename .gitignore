@@ -1,0 +1,5 @@
+*.umap
+*.uasset
+*.uproject
+Saved/
+Intermediate/

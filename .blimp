@@ -1,0 +1,12 @@
+# Welcome to Blimp!
+
+# - Use `blimp watch *.big_file_extension` to tell blimp about big files
+# - Blimp will add the pattern to this file, like this:
+#   *.big_file_extension
+# - Blimp will also add that same pattern to your .gitignore.
+# - Files matching the patterns in .blimp will be stored in the s3 bucket specified by your .git/config
+
+# For example:
+# *.big_file_extension
+# *.some_other_big_file_extension
+
