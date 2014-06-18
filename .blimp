@@ -10,3 +10,6 @@
 # *.big_file_extension
 # *.some_other_big_file_extension
 
+*.uasset
+*.uproject
+*.umap
