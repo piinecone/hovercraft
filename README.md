@@ -8,7 +8,7 @@ Playable Demo
 Download and play the demo level.
 
 * Mac: [download playable demo for Mac](https://s3.amazonaws.com/piinecone/github/hovercraft/Hovercraft-Mac.zip)
-* PC: 
+* PC: [download playable demo for Windows (64 bit)](https://s3.amazonaws.com/piinecone/github/hovercraft/Hovercraft-Win64.zip)
 
 Details
 =======
